@@ -6,6 +6,6 @@ Completing the simpleArraySum function. It must return the sum of the array elem
 simpleArraySum has the following parameter(s):
 ar: an array of integers
 
-In or to work this code 'os' and 'sys' are been imported.this usually consists of two inputs ar_count which is the range of the numbers in arrays and another is the ar which is list of number which is to be summed up and given the output.
+In order to work this code 'os' and 'sys' are been imported.this usually consists of two inputs 'ar_count' which is the range of the numbers in arrays and another is the' ar' which is list of number which is to be summed up and given the output.
 
 
